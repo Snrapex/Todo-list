@@ -9,4 +9,4 @@ const DocsLayout = ({ children }) => {
   )
 }
 
-export default DocsLayout
+
